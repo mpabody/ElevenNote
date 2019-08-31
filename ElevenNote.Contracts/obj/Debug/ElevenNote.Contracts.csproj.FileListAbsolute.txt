@@ -1,0 +1,16 @@
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll.config
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb
