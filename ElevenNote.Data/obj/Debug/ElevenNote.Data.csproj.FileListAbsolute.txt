@@ -14,3 +14,6 @@ C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj
 C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
