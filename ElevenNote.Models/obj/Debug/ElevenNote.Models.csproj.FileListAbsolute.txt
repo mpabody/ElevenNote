@@ -30,3 +30,19 @@ C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Mod
 C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

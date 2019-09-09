@@ -28,7 +28,6 @@ namespace ElevenNote.WebMVC.Controllers
             return View();
         }
 
-
         // POST : Create
         [HttpPost]
         [ValidateAntiForgeryToken]

@@ -42,3 +42,25 @@ C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.S
 C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\micha_000\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

@@ -36,22 +36,19 @@ namespace ElevenNote.Services
 
         public IEnumerable<NoteListItem> GetNotes()
         {
-            using (var ctx = new ApplicationDbContext())
+            using (var _db = new ApplicationDbContext())
             {
-                var query =
-                    ctx
-                        .Notes
+                var query = _db.Notes
                         .Where(e => e.OwnerID == _userID)
                         .Select(
-                            e =>
+                            n =>
                                 new NoteListItem
                                 {
-                                    NoteID = e.NoteID,
-                                    Title = e.Title,
-                                    CreatedUtc = e.CreatedUtc
+                                    NoteID = n.NoteID,
+                                    Title = n.Title,
+                                    CreatedUtc = n.CreatedUtc
                                 }
                         );
-
                 return query.ToArray();
             }
         }
