@@ -76,7 +76,7 @@ namespace ElevenNote.WebMVC.Controllers
 
             if (model.NoteID != id)
             {
-                ModelState.AddModelError("", "Id Mismatch");
+                ModelState.AddModelError("", "ID Mismatch");
                 return View(model);
             }
 
