@@ -37,3 +37,4 @@ C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\Elev
 C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
 C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.addCategory.resources
+C:\Eleven Fifty Academy\DotNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.addmigrationCategoryTable.resources

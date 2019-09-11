@@ -68,6 +68,10 @@
     <Compile Include="Migrations\201909060040332_addCategory.Designer.cs">
       <DependentUpon>201909060040332_addCategory.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909112118532_add-migration CategoryTable.cs" />
+    <Compile Include="Migrations\201909112118532_add-migration CategoryTable.Designer.cs">
+      <DependentUpon>201909112118532_add-migration CategoryTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -85,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909060040332_addCategory.resx">
       <DependentUpon>201909060040332_addCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909112118532_add-migration CategoryTable.resx">
+      <DependentUpon>201909112118532_add-migration CategoryTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
