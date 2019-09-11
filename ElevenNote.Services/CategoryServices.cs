@@ -22,10 +22,10 @@ namespace ElevenNote.Services
                 CategoryName = model.CategoryName
             };
 
-            using (var ctx = new ApplicationDbContext())
+            using (var _db = new ApplicationDbContext())
             {
-                ctx.Categories.Add(entity);
-                return ctx.SaveChanges() == 1;
+                _db.Categories.Add(entity);
+                return _db.SaveChanges() == 1;
             }
         }
 
@@ -35,17 +35,17 @@ namespace ElevenNote.Services
             {
                 var query = _db.Categories
                         .Select(
-                            n =>
+                            c =>
                                 new CategoryListItem
                                 {
-                                    CategoryName = n.CategoryName
+                                    CategoryID = c.CategoryID,
+                                    CategoryName = c.CategoryName
                                 }
                         );
                 return query.ToList();
             }
         }
-        // No need for details view -- 'Notes' instead - lists all notes associated with category
-        
+
         public bool UpdateCategory(CategoryListItem model)
         {
             using (var ctx = new ApplicationDbContext())
@@ -64,16 +64,16 @@ namespace ElevenNote.Services
 
         public bool DeleteCategory(int categoryID)
         {
-            using (var ctx = new ApplicationDbContext())
+            using (var _db = new ApplicationDbContext())
             {
                 var entity =
-                    ctx
+                    _db
                     .Categories
-                    .Single(e => e.CategoryID == categoryID);
+                    .Find(categoryID);
 
-                ctx.Categories.Remove(entity);
+                _db.Categories.Remove(entity);
 
-                return ctx.SaveChanges() == 1;
+                return _db.SaveChanges() == 1;
             }
         }
     }
