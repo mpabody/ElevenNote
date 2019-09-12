@@ -81,6 +81,16 @@ namespace ElevenNote.WebMVC.Controllers
         }
 
         // GET : Delete
+        [ActionName("Delete")]
+        public ActionResult Delete(int id)
+        {
+            var svc = CreateCategoryService();
+            var model = svc.GetCategoryByID(id);
+
+            return View(model);
+        }
+
+        // POST : Delete
         [HttpPost]
         [ActionName("Delete")]
         [ValidateAntiForgeryToken]
